@@ -9312,6 +9312,11 @@ ra-data-json-server@^3.12.5:
     query-string "^5.1.1"
     ra-core "^3.12.5"
 
+ra-data-lb4@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/ra-data-lb4/-/ra-data-lb4-0.3.0.tgz#a0f32f232c6ef9b69e2dbe5146bbb31fc6fe3769"
+  integrity sha512-2a+OkdrAyXIrIM9TOYhr2E4vuDQfWPsoWXRslKTUtwrf5fw18ojLEbILs9ZjK2sVAFf2errT2nuuYF0PWwoySQ==
+
 ra-i18n-polyglot@^3.12.5:
   version "3.12.5"
   resolved "https://registry.yarnpkg.com/ra-i18n-polyglot/-/ra-i18n-polyglot-3.12.5.tgz#d79c4e769b05065bb6fbf1cbb62698a31b8f5bc1"
@@ -9381,6 +9386,13 @@ raw-body@2.4.0:
     http-errors "1.7.2"
     iconv-lite "0.4.24"
     unpipe "1.0.0"
+
+react-admin-lb4@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-admin-lb4/-/react-admin-lb4-1.0.3.tgz#00762c952eb552b484e2be7a789e49e06a78de45"
+  integrity sha512-K+noKAWmT4I2hLIBnLYpjLGotoZN8YAtwhadiAo1/1q7bWIBCURvB6+QbrkAIEtjSC0O8xuoxGgIlySdFZIugA==
+  dependencies:
+    lodash "^4.17.11"
 
 react-admin@^3.12.5:
   version "3.12.5"
